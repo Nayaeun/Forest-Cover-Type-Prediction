@@ -1,4 +1,4 @@
-# Forest Cover Type Prediction | Python
+# Forest Cover Type Prediction
 
 ## Introduction
 
