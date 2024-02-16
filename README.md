@@ -1,1 +1,11 @@
-# 23Spring_ML_Final
+# Forest Cover Type Prediction
+
+## Introduction
+
+## Objectives
+
+## Methodology
+
+## Results
+
+## Conclusion
