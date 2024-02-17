@@ -12,7 +12,7 @@ The primary objectives of this project are as follows:
 * To contribute insights into the ecological factors influencing the distribution of different forest cover types.
 
 ## Methodology
-Our approach to achieving these objectives involved a comprehensive methodology:
+The approach to achieving these objectives involved a comprehensive methodology:
 
 1. Data Collection:
 Acquired a dataset containing 15,120 observations and 56 features with information on topography, soil type, and other environmental factors.
